@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Governo do Brasil (fake)</title>
+    <style>
+        body {
+            background-color: rgb(205, 135, 222);
+            color: rgb(255, 251, 240);
+        }
+
+        .botao {
+            border-radius: 7px;
+            border: none;
+            background-color: rgb(251, 15, 255);
+            color: aliceblue;
+        }
+
+        .box {
+            border-radius: 7px;
+            border: none;
+        }
+
+        p {
+            margin-bottom: 5px;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Me conte sua origem</h1>
+    Eu sou de <input type="text" class="box" name="pais" id="pais">
+    <input type="button" class="botao" value="Verificar" onclick="verificacao()">
+    <div id="res">
+
+    </div>
+    <script>
+        function verificacao() {
+                var país = window.document.querySelector('input#pais').value
+                // a linha a cima tinha o erro de pegar o elemento do input mas não o seu valor (falta do value)
+                var o = window.document.querySelector('div#res')
+                res.innerHTML = `<p>Seja bem-vindo!</p>`
+
+                    if (país.trim().toLowerCase() == 'brasil') {  
+                    // trim e lowercase para ser case-insensitive, em caso de espaços e letra minúscula no início
+                    res.innerHTML += `<p>Você é brasileiro(a)</p>`
+                }  else {
+                    res.innerHTML += `<p>Você é estrangeiro(a)</p>`
+                }
+                
+        }
+    </script>
+</body>
+</html>
