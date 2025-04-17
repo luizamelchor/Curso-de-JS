@@ -15,8 +15,8 @@
 
 ### 🌤️ Hora do Dia 🌤️
 <p align="center">
-<img src="/imagens/HoradoDia1.png" width="300"></p>
-<img src="/imagens/HoradoDia2.png" width="300"></p>
+<img src="/imagens/HoradoDia1.png" width="300">
+<img src="/imagens/HoradoDia2.png" width="300">
 <img src="/imagens/HoradoDia3.png" width="300"></p>
 <p>Usa a hora atual do usuário para mudar o tema da aplicação e a mensagem</p>
 
