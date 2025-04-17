@@ -15,7 +15,9 @@
 
 ### 🌤️ Hora do Dia 🌤️
 <p align="center">
-<img src="/imagens/HoradoDia.png" width="250"></p>
+<img src="/imagens/HoradoDia1.png" width="300"></p>
+<img src="/imagens/HoradoDia2.png" width="300"></p>
+<img src="/imagens/HoradoDia3.png" width="300"></p>
 <p>Usa a hora atual do usuário para mudar o tema da aplicação e a mensagem</p>
 
 ### 🧑 Verificador de Idade 🧑
