@@ -6,19 +6,22 @@
 
 ## Exercícios realizados
 
-### Me conte sua origem
-<img src="/imagens/Origem1.png" width="200">
-<img src="/imagens/Origem2.png" width="200">
-<img src="/imagens/Origem3.png" width="200">
+### 🌎 Me conte sua origem 🌎
+<p align="center">
+<img src="/imagens/Origem1.png" width="250">
+<img src="/imagens/Origem2.png" width="250">
+<img src="/imagens/Origem3.png" width="250"></p>
 <p>De acordo com a resposta do usuário, é gerado a resposta brasileiro(a) ou estrangeiro(a)</p>
 
-### Hora do Dia
-<img src="/imagens/HoradoDia.png" width="200">
+### 🌤️ Hora do Dia 🌤️
+<p align="center">
+<img src="/imagens/HoradoDia.png" width="200"></p>
 <p>Usa a hora atual do usuário para mudar o tema da aplicação e a mensagem</p>
 
-### Verificador de Idade
-<img src="/imagens/VerificadordeIdade1.png" width="200">
-<img src="/imagens/VerificadordeIdade2.png" width="200">
-<img src="/imagens/VerificadordeIdade3.png" width="200">
+### 🧑 Verificador de Idade 🧑
+<p align="center">
+<img src="/imagens/VerificadordeIdade1.png" width="250">
+<img src="/imagens/VerificadordeIdade2.png" width="250"> 
+<img src="/imagens/VerificadordeIdade3.png" width="250"></p>
 <p>A aplicação usa os dados fornecidos pelos usuários para gerar a idade e uma foto representativa do estágio de vida</p>
 
