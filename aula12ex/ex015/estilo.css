@@ -1,11 +1,15 @@
 body {
     text-align: center;
-    font: normal 15pt Arial;
-    background-color: rgb(118, 28, 150);
+    font: normal 15px Arial;
+    background-color: rgb(28, 119, 150);
 }
 
 header {
     color: white;
+}
+
+#txtano {
+    width: 80px;
 }
 
 section {
