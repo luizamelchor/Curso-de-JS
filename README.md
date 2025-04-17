@@ -15,13 +15,13 @@
 
 ### 🌤️ Hora do Dia 🌤️
 <p align="center">
-<img src="/imagens/HoradoDia.png" width="200"></p>
+<img src="/imagens/HoradoDia.png" width="250"></p>
 <p>Usa a hora atual do usuário para mudar o tema da aplicação e a mensagem</p>
 
 ### 🧑 Verificador de Idade 🧑
 <p align="center">
-<img src="/imagens/VerificadordeIdade1.png" width="250">
-<img src="/imagens/VerificadordeIdade2.png" width="250"> 
-<img src="/imagens/VerificadordeIdade3.png" width="250"></p>
+<img src="/imagens/VerificadordeIdade1.png" width="270">
+<img src="/imagens/VerificadordeIdade2.png" width="270"> 
+<img src="/imagens/VerificadordeIdade3.png" width="270"></p>
 <p>A aplicação usa os dados fornecidos pelos usuários para gerar a idade e uma foto representativa do estágio de vida</p>
 
